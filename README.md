@@ -24,7 +24,15 @@ This project uses an Arduino to play the Saudi National Anthem using a piezo buz
 - Piezo Buzzer
 - Jumper Wires
 - Breadboard
-- 
+- Green LED (Optional)
+
+![Fantabulous Sango-Hango](https://github.com/user-attachments/assets/e56feba0-a27a-45f1-88b6-5e395afdcde4)
+![‪Circuit design Fantabulous Sango-Hango - Tinkercad - Google Chrome‬ 9_20_2024 01_04_46 PM](https://github.com/user-attachments/assets/93341dc8-3d0f-4c0f-968e-22dd2cc7fb2f)
+
+
+
+
+
 ## Wiring
 1. Connect the positive leg of the buzzer to Arduino pin 8 (PWM pin).
 2. Connect the negative leg to the GND pin.
