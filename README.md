@@ -38,7 +38,8 @@ This project uses an Arduino to play the Saudi National Anthem using a piezo buz
 2. Connect the negative leg to the GND pin.
 
 ## Code
-You can find the code to play the anthem in the repository. It uses the `tone()` function to generate the required frequencies.
+You can find the code to play the anthem in the repository.
+[Click here to see the Source Code](https://github.com/FatoomRe/SaudiNationalAnthem_Arduino/blob/843dd1834d64048588cfbb90578cf34ac820ce08/SaudiNationaAnthem/SaudiNationaAnthem.ino)
 
 ## How to Run
 1. Clone this repository:
