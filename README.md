@@ -24,7 +24,7 @@ I was curious about how tones could be played within a circuit or on a microcont
 
 After exploring the functionality of this module, I decided to use it to play our National Anthem. I transcribed the notation of the Saudi National Anthem by playing it on piano, writing it down on paper, converting it to codes, and then started to write a program for Arduino.
 
-![intervalchart](https://github.com/user-attachments/assets/2ff80892-c294-44c6-9da0-0af64dd752e7)
+![intervalchart](https://github.com/user-attachments/assets/cbf9fae8-a212-4c1f-94f4-801a3e447aab)
 ![notes](https://github.com/user-attachments/assets/2e89d3bf-c7c4-454a-93bd-d339a8c0379e)
 
 After 20-30 iterations, adjusting the tempo, frequencies of notes, and duration, I finally achieved a satisfying output. It was a fun project for me, and I hope you like it.
