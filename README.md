@@ -1,4 +1,4 @@
-# SaudiNationalAnthem Buzzer - Arduino Project 💚
+# Saudi National Anthem - Arduino Project 💚
 
 <table>
   <tr>
