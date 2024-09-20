@@ -29,6 +29,10 @@ After exploring the functionality of this module, I decided to use it to play ou
 
 After 20-30 iterations, adjusting the tempo, frequencies of notes, and duration, I finally achieved a satisfying output. It was a fun project for me, and I hope you like it.
 
+
+https://github.com/user-attachments/assets/c0ecac96-6be4-4016-8d32-54dd44d4c7f3
+
+
 ## Components
 - Arduino Uno 
 - Piezo Buzzer
