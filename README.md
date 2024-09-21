@@ -342,10 +342,9 @@ void loop() {
 ## Thank You 💚
 
 Thank you for checking out my Saudi National Anthem Arduino project! I hope you found it fun and educational. If you enjoyed the project, please consider giving the repository a ⭐.
+
 Your support means a lot and encourages me to keep creating more cool projects!
 
 If you have any feedback, improvements, or ideas for other projects, feel free to reach out. Let's keep building and learning together!
-
-[⭐ Star the Repository](https://github.com/FatoomRe/SaudiNationalAnthem_Arduino) 🙌
 
 
