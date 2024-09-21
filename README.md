@@ -22,7 +22,7 @@ This project uses an Arduino to play the Saudi National Anthem using a piezo buz
 
 I was curious about how tones could be played within a circuit or on a microcontroller, and that's when I discovered the Arduino tone() function. I found several projects that used this module to play tunes like "Happy Birthday" and "Super Mario" 
 
-After exploring the functionality of this module, I decided to use it to play our National Anthem. I transcribed the notation of the Saudi National Anthem by playing it on piano, writing it down on paper, converting it to codes, and then started to write a program for Arduino.
+After exploring the functionality of this module, I decided to use it to play our National Anthem. I transcribed the notation of the Saudi National Anthem by playing it on piano, writing it down on paper, converting it to frequencies, and then started to write a program for Arduino.
 
 ![intervalchart](https://github.com/user-attachments/assets/cbf9fae8-a212-4c1f-94f4-801a3e447aab)
 ![notes](https://github.com/user-attachments/assets/2e89d3bf-c7c4-454a-93bd-d339a8c0379e)
